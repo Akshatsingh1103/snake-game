@@ -1,0 +1,3 @@
+This project is a simple Snake game made using HTML, CSS, and JavaScript. The HTML sets up the game layout, showing the score and the play area. CSS makes the game look good with a dark background, smooth animations, and effects that adjust for different screen sizes. 
+
+JavaScript controls how the game works—making the snake move, adding food, checking for collisions, and restarting the game if the snake crashes. Players use keyboard keys to move the snake, aiming to eat food and grow longer without hitting themselves. The game updates smoothly and adjusts to fit any device screen, offering a fun and interactive experience.
